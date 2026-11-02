@@ -1,6 +1,8 @@
-# DaemonCraft Documentation
+# DaimonCraft Documentation
 
-Last updated: 2026-05-10
+Start with [DAIMONCRAFT.md](DAIMONCRAFT.md) for the current Matrix embodiment
+direction. The commands below describe the existing Hermes implementation;
+they are not the startup path for the proposed new body.
 
 ## Core Docs
 

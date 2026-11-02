@@ -1,5 +1,10 @@
 # DaemonCraft — Operations
 
+These are historical Hermes operating instructions. For the current DaimonCraft
+direction read [DAIMONCRAFT.md](DAIMONCRAFT.md). A new body must use its selected
+current harness and Matrix lifecycle, not revive old gateways or cast identities.
+Review actual deployment, world and controller state before a scoped start.
+
 Last updated: 2026-05-10
 
 ## Service Lifecycle

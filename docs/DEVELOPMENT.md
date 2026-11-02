@@ -1,5 +1,10 @@
 # DaemonCraft — Development
 
+For current non-Hermes development, start with [DAIMONCRAFT.md](DAIMONCRAFT.md).
+The template, credential inheritance and deployment commands below describe
+the historical Hermes implementation. They do not select configuration or
+credential custody for the new Matrix body.
+
 Last updated: 2026-05-10
 
 ## Golden Rules

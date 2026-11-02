@@ -1,8 +1,17 @@
-# DaemonCraft
+# DaimonCraft
 
-DaemonCraft is a multi-agent Minecraft environment where persistent AI companions inhabit Mineflayer bodies, perceive and act through Hermes Agent, and coordinate with an embodied planning service.
+DaimonCraft continues DaemonCraft as a Minecraft playground for embodied daimons.
+The current development direction replaces the Hermes cognition dependency with
+a minimal harness integrated with Daimon Matrix. CompAII's Minecraft embodiment
+is another body of CompAII, with continuity of identity and memory.
 
-## Current architecture
+See [the current direction and source map](docs/DAIMONCRAFT.md). This is the
+development target; the checked-in runtime below remains the historical Hermes
+implementation. No new Matrix body or running playground is established by this
+documentation change. The GitHub repository and existing command names retain
+their DaemonCraft spelling during the transition.
+
+## Existing implementation
 
 - `server/` — Purpur Minecraft server data, plugins, and backups
 - `agents/bot/` — Mineflayer body, HTTP/WebSocket API, movement, reflexes, and dashboards
